@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dashboardreact/static/css/main.23fba13f.css",
+    "main.js": "/Dashboardreact/static/js/main.9d6ceec2.js",
+    "static/media/ahmed.jpg": "/Dashboardreact/static/media/ahmed.5c0466d9147814af2aef.jpg",
+    "index.html": "/Dashboardreact/index.html",
+    "main.23fba13f.css.map": "/Dashboardreact/static/css/main.23fba13f.css.map",
+    "main.9d6ceec2.js.map": "/Dashboardreact/static/js/main.9d6ceec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23fba13f.css",
+    "static/js/main.9d6ceec2.js"
+  ]
+}
